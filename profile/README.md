@@ -2,27 +2,27 @@
 
 **Quantum Research & Engineering**
 
-QubitWorks is a research and engineering organization focused on quantum computing, simulation, and experimental systems.
+QubitWorks is a collaborative research and engineering space focused on quantum computing, simulation, and the development of tools for quantum technologies.
 
-We explore quantum technologies and develop software, tools, and resources that support research, experimentation, and reproducible development.
+We explore ideas, develop software, and build practical tools to support research, experimentation, and reproducible scientific work.
 
 ## Research & Development
 
-Our areas of interest include:
+Our interests include:
 
-- **Quantum Computing** — Exploring quantum technologies and computational methods.
-- **Quantum Error Correction** — Developing tools and software for studying quantum error correction.
-- **Quantum Simulation** — Building and exploring simulation methods for quantum systems.
-- **Experimental Systems** — Supporting research through experimental platforms and engineering resources.
+- **Quantum Computing** — Exploring quantum technologies and computational models.
+- **Quantum Error Correction** — Studying error correction methods, codes, and decoding techniques.
+- **Quantum Simulation** — Developing tools and simulations for investigating quantum systems.
+- **Research Software** — Building modular, extensible, and reproducible research tools.
 
 ## Projects
 
-Our repositories contain research software, development tools, experiments, and shared resources.
+Our repositories contain research software, experimental implementations, documentation, and tools developed through our projects.
 
-Explore the repositories to learn more about our ongoing work.
+Explore the repositories to learn more about our work.
 
 ## Collaboration
 
-QubitWorks is a collaborative space for research, engineering, and knowledge sharing.
+QubitWorks values open research, engineering collaboration, and knowledge sharing.
 
-We value reproducibility, clear documentation, and maintainable software.
+We welcome discussions and contributions that support our research and development activities.
